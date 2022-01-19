@@ -1,2 +1,3 @@
 # SolidWorks
-Proyectos varios (entre ellos, muchos de electronica) en formato .stl y .pdf 3D
+Proyectos varios y de entre ellos, muchos de electronica.
+Formatos: .SLDPRT, .SLDASM, .step, .stl

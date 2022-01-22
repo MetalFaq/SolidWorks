@@ -10,4 +10,4 @@ Proyectos de diseño de piezas para usos varios en el campo de la electrónica.<
 <li>.stl</li>
 </ul>
 
-<i>Cuestiones laborales me obligan a mantener algunos archivos solo en vista de PDF 3D</i>
+<i>Derechos de confidencia laboral me obligan a mantener alguno de los proyectos solo en vista de PDF 3D</i>

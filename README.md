@@ -1,6 +1,6 @@
 # SolidWorks <br>
 
-Proyectos de diseño de piezas para uso vario.<br>
+Proyectos de diseño de piezas para usos varios en el campo de la electrónica.<br>
 
 <b>Formatos usados</b>: 
 <ul>
@@ -9,5 +9,3 @@ Proyectos de diseño de piezas para uso vario.<br>
 <li>.step</li>
 <li>.stl</li>
 </ul>
-
-

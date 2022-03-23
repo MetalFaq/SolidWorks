@@ -10,4 +10,7 @@ Proyectos de diseño de piezas para usos varios en el campo de la electrónica.<
 <li>.stl</li>
 </ul>
 
-<i>Derechos de confidencia laboral me obligan a mantener alguno de los proyectos solo en vista de PDF 3D</i>
+<i>
+  Impresora: Creality CR 5 Pro. <br>
+  Programa de configuración p/impresión: PrusaSlicer
+</i>
